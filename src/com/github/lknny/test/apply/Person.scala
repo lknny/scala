@@ -8,7 +8,7 @@ package com.github.lknny.test.apply
   */
 class Person(s:String){
   private var name=s
-  
+
   def printName:Unit={
     print(name)
   }
